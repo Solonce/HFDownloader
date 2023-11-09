@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/hfdownloader/__init__.py
+src/hfdownloader/hf_downloader.py
+src/hfdownloader.egg-info/PKG-INFO
+src/hfdownloader.egg-info/SOURCES.txt
+src/hfdownloader.egg-info/dependency_links.txt
+src/hfdownloader.egg-info/top_level.txt
